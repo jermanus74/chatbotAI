@@ -7,7 +7,7 @@ const container = document.querySelector(".container");
 
 let userMessage;
 let chatHistory = [];
-const API_KEY = "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";
+const API_KEY = "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";
 const inputInitHeight = chatInput.scrollHeight;
 const createChatLi = (message, className) => {
     // create chat <li>Element with passed arguements(message and class name)
